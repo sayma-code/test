@@ -19,6 +19,10 @@ npm run build
 ```
 npm run lint
 ```
+### Remove Lint 
+```
+npm remove @vue/cli-plugin-eslint
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
